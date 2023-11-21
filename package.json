@@ -20,7 +20,7 @@
     "@docusaurus/plugin-client-redirects": "^2.4.0",
     "@docusaurus/plugin-google-analytics": "^2.4.0",
     "@docusaurus/preset-classic": "^2.4.0",
-    "@docusaurus/theme-mermaid": "^2.4.0",
+    "@docusaurus/theme-mermaid": "^3.0.0",
     "@loadable/component": "^5.15.2",
     "@mdx-js/react": "^1.6.22",
     "@stackql/docusaurus-plugin-hubspot": "^1.1.0",
